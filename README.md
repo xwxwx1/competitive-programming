@@ -1,2 +1,2 @@
-# competitive-programming
-my solutions for programming competition
+# competitive-programming  
+my solutions for programming competitions
